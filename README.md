@@ -1,2 +1,0 @@
-# .github
-Neterial GitHub Profile
