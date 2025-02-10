@@ -1,5 +1,7 @@
 ### [Neterial - Сloud-agnostic Managed Kubernetes, Databases, and beyond](https://neterial.io/)
 
+**[Documentation](https://docs.neterial.io)**
+
 #### Projects
 
 - **[Neterial CLI](https://github.com/neterialio/cli)** — create and manage k8s clusters from the command-line
